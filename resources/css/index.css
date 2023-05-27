@@ -1,0 +1,18 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url('../images/pattern.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 125px;
+}
+
+header h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    margin: 0 auto;
+    text-align: center;
+}
